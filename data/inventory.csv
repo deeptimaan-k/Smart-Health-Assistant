@@ -1,0 +1,13 @@
+name,generic_name,strength,brand,form,manufacturer,in_stock,stock_level,price
+paracetamol,paracetamol,500mg,Crocin,tablet,GSK,1,High,15
+paracetamol,paracetamol,650mg,Dolo,tablet,Micro Labs,1,Medium,22
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Abbott,0,Out of Stock,18
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,GSK,1,High,45
+aspirin,aspirin,300mg,Aspirin,tablet,Bayer,1,High,10
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Johnson & Johnson,1,High,12
+loratadine,loratadine,10mg,Claritin,tablet,Bayer,1,High,15
+omeprazole,omeprazole,20mg,Prilosec,capsule,AstraZeneca,1,Medium,28
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Reckitt,1,Low,85
+azithromycin,azithromycin,250mg,Azithral,tablet,Alembic,1,High,120
+cephalexin,cephalexin,500mg,Keflex,capsule,GSK,1,High,95
+naproxen,naproxen,250mg,Naprosyn,tablet,Roche,1,Medium,35

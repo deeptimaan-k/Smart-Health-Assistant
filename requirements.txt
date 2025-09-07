@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+pydantic
+pandas
+python-dotenv
+typing-extensions
+geopy
