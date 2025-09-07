@@ -1,13 +1,521 @@
 name,generic_name,strength,brand,form,manufacturer,in_stock,stock_level,price
-paracetamol,paracetamol,500mg,Crocin,tablet,GSK,1,High,15
-paracetamol,paracetamol,650mg,Dolo,tablet,Micro Labs,1,Medium,22
-ibuprofen,ibuprofen,400mg,Brufen,tablet,Abbott,0,Out of Stock,18
-amoxicillin,amoxicillin,500mg,Amoxil,capsule,GSK,1,High,45
-aspirin,aspirin,300mg,Aspirin,tablet,Bayer,1,High,10
-cetirizine,cetirizine,10mg,Zyrtec,tablet,Johnson & Johnson,1,High,12
-loratadine,loratadine,10mg,Claritin,tablet,Bayer,1,High,15
+amlodipine,amlodipine,5mg,Amdepin,tablet,Eli Lilly,0,Out of Stock,43
+loratadine,loratadine,10mg,Claritin,tablet,Micro Labs,0,Out of Stock,21
+ranitidine,ranitidine,150mg,Zinetac,tablet,Novartis,0,Out of Stock,28
+sertraline,sertraline,50mg,Zoloft,tablet,Pfizer,1,Low,124
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Sanofi,0,Out of Stock,116
+amlodipine,amlodipine,5mg,Amdepin,tablet,Novartis,0,Out of Stock,39
+diclofenac,diclofenac,50mg,Voveran,tablet,Novartis,0,Out of Stock,45
+furosemide,furosemide,40mg,Lasix,tablet,Novartis,0,Out of Stock,32
 omeprazole,omeprazole,20mg,Prilosec,capsule,AstraZeneca,1,Medium,28
-dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Reckitt,1,Low,85
-azithromycin,azithromycin,250mg,Azithral,tablet,Alembic,1,High,120
-cephalexin,cephalexin,500mg,Keflex,capsule,GSK,1,High,95
-naproxen,naproxen,250mg,Naprosyn,tablet,Roche,1,Medium,35
+paracetamol,paracetamol,500mg,Crocin,tablet,Sun Pharma,1,Medium,23
+diazepam,diazepam,5mg,Valium,tablet,Micro Labs,1,Medium,103
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Novartis,0,Out of Stock,137
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Merck,1,High,117
+azithromycin,azithromycin,250mg,Azithral,tablet,Lupin,1,Medium,121
+sertraline,sertraline,50mg,Zoloft,tablet,Bayer,1,Low,120
+cephalexin,cephalexin,500mg,Keflex,capsule,Bayer,1,Medium,97
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Reckitt,0,Out of Stock,59
+paracetamol,paracetamol,500mg,Crocin,tablet,Sanofi,0,Out of Stock,18
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Reckitt,1,Medium,104
+amlodipine,amlodipine,5mg,Amdepin,tablet,Johnson & Johnson,1,Medium,45
+diclofenac,diclofenac,50mg,Voveran,tablet,Sanofi,1,High,42
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Johnson & Johnson,0,Out of Stock,84
+montelukast,montelukast,10mg,Montair,tablet,Lupin,1,Low,65
+ranitidine,ranitidine,150mg,Zinetac,tablet,Torrent,0,Out of Stock,27
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Eli Lilly,0,Out of Stock,57
+diclofenac,diclofenac,50mg,Voveran,tablet,Lupin,0,Out of Stock,40
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Cadila,0,Out of Stock,45
+loratadine,loratadine,10mg,Claritin,tablet,Cadila,0,Out of Stock,22
+metoprolol,metoprolol,50mg,Lopressor,tablet,Abbott,1,Medium,74
+omeprazole,omeprazole,20mg,Prilosec,capsule,Abbott,0,Out of Stock,33
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Sun Pharma,0,Out of Stock,88
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Eli Lilly,1,Low,83
+diclofenac,diclofenac,50mg,Voveran,tablet,Reckitt,1,Medium,36
+naproxen,naproxen,250mg,Naprosyn,tablet,Novartis,0,Out of Stock,43
+sertraline,sertraline,50mg,Zoloft,tablet,Abbott,1,Medium,129
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Sun Pharma,1,High,126
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Johnson & Johnson,0,Out of Stock,35
+azithromycin,azithromycin,250mg,Azithral,tablet,AstraZeneca,0,Out of Stock,129
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Cadila,0,Out of Stock,115
+losartan,losartan,50mg,Losar,tablet,Alembic,1,High,63
+paracetamol,paracetamol,500mg,Crocin,tablet,Alembic,0,Out of Stock,19
+fluoxetine,fluoxetine,20mg,Prozac,capsule,AstraZeneca,1,Medium,117
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Cadila,1,High,144
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Lupin,1,High,34
+amlodipine,amlodipine,5mg,Amdepin,tablet,Sun Pharma,1,Low,33
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Alembic,0,Out of Stock,87
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Abbott,1,Low,126
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Novartis,1,High,67
+diazepam,diazepam,5mg,Valium,tablet,GSK,0,Out of Stock,97
+ranitidine,ranitidine,150mg,Zinetac,tablet,GSK,0,Out of Stock,27
+paracetamol,paracetamol,500mg,Crocin,tablet,Pfizer,0,Out of Stock,25
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Pfizer,1,Medium,25
+aspirin,aspirin,300mg,Aspirin,tablet,Sun Pharma,1,High,5
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Sun Pharma,1,Low,21
+aspirin,aspirin,300mg,Aspirin,tablet,Johnson & Johnson,1,High,6
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Cadila,0,Out of Stock,90
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Eli Lilly,0,Out of Stock,75
+metformin,metformin,500mg,Glucophage,tablet,Micro Labs,0,Out of Stock,57
+cetirizine,cetirizine,10mg,Zyrtec,tablet,AstraZeneca,1,Low,15
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Sun Pharma,0,Out of Stock,110
+alprazolam,alprazolam,0.5mg,Xanax,tablet,GSK,0,Out of Stock,91
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Lupin,1,High,111
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Sanofi,1,High,42
+naproxen,naproxen,250mg,Naprosyn,tablet,Dr. Reddy's,1,Medium,42
+omeprazole,omeprazole,20mg,Prilosec,capsule,Micro Labs,0,Out of Stock,32
+aspirin,aspirin,300mg,Aspirin,tablet,Cipla,0,Out of Stock,8
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Johnson & Johnson,1,Medium,65
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Lupin,0,Out of Stock,142
+sertraline,sertraline,50mg,Zoloft,tablet,Alembic,0,Out of Stock,127
+losartan,losartan,50mg,Losar,tablet,Micro Labs,1,Medium,61
+furosemide,furosemide,40mg,Lasix,tablet,Cadila,1,Medium,26
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Novartis,1,Medium,77
+losartan,losartan,50mg,Losar,tablet,Sun Pharma,0,Out of Stock,67
+diazepam,diazepam,5mg,Valium,tablet,Reckitt,1,High,95
+diclofenac,diclofenac,50mg,Voveran,tablet,GSK,1,High,43
+metoprolol,metoprolol,50mg,Lopressor,tablet,Alembic,1,Medium,74
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Roche,0,Out of Stock,41
+metoprolol,metoprolol,50mg,Lopressor,tablet,Micro Labs,0,Out of Stock,84
+cephalexin,cephalexin,500mg,Keflex,capsule,Novartis,0,Out of Stock,98
+paracetamol,paracetamol,650mg,Dolo,tablet,Sun Pharma,0,Out of Stock,23
+azithromycin,azithromycin,250mg,Azithral,tablet,Bayer,1,Low,125
+naproxen,naproxen,250mg,Naprosyn,tablet,Micro Labs,0,Out of Stock,39
+naproxen,naproxen,250mg,Naprosyn,tablet,Merck,1,High,31
+ranitidine,ranitidine,150mg,Zinetac,tablet,AstraZeneca,1,Low,21
+diazepam,diazepam,5mg,Valium,tablet,Lupin,1,Low,93
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Merck,1,Medium,89
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Eli Lilly,0,Out of Stock,91
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Pfizer,1,High,109
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Novartis,0,Out of Stock,108
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Merck,1,High,63
+furosemide,furosemide,40mg,Lasix,tablet,Alembic,1,High,33
+paracetamol,paracetamol,500mg,Crocin,tablet,Abbott,1,Medium,12
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Novartis,0,Out of Stock,25
+paracetamol,paracetamol,500mg,Crocin,tablet,Sun Pharma,0,Out of Stock,16
+cephalexin,cephalexin,500mg,Keflex,capsule,GSK,0,Out of Stock,90
+clopidogrel,clopidogrel,75mg,Plavix,tablet,AstraZeneca,1,Medium,144
+alprazolam,alprazolam,0.5mg,Xanax,tablet,GSK,0,Out of Stock,85
+ranitidine,ranitidine,150mg,Zinetac,tablet,Reckitt,0,Out of Stock,24
+metformin,metformin,500mg,Glucophage,tablet,Eli Lilly,1,Low,60
+diclofenac,diclofenac,50mg,Voveran,tablet,Roche,1,High,36
+montelukast,montelukast,10mg,Montair,tablet,Abbott,1,High,62
+losartan,losartan,50mg,Losar,tablet,Cipla,0,Out of Stock,65
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Cipla,1,Medium,107
+diazepam,diazepam,5mg,Valium,tablet,GSK,0,Out of Stock,94
+metformin,metformin,500mg,Glucophage,tablet,Micro Labs,0,Out of Stock,65
+naproxen,naproxen,250mg,Naprosyn,tablet,Eli Lilly,1,Low,34
+paracetamol,paracetamol,500mg,Crocin,tablet,Alembic,0,Out of Stock,23
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Abbott,1,Medium,50
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,GSK,1,Low,74
+paracetamol,paracetamol,650mg,Dolo,tablet,Johnson & Johnson,0,Out of Stock,20
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Cipla,1,High,138
+paracetamol,paracetamol,500mg,Crocin,tablet,Bayer,1,Low,17
+sertraline,sertraline,50mg,Zoloft,tablet,AstraZeneca,1,Medium,122
+amlodipine,amlodipine,5mg,Amdepin,tablet,Bayer,0,Out of Stock,34
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,AstraZeneca,0,Out of Stock,77
+ranitidine,ranitidine,150mg,Zinetac,tablet,Lupin,0,Out of Stock,15
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Sanofi,0,Out of Stock,115
+losartan,losartan,50mg,Losar,tablet,Eli Lilly,1,High,57
+paracetamol,paracetamol,650mg,Dolo,tablet,Sun Pharma,1,High,30
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Bayer,1,Medium,106
+montelukast,montelukast,10mg,Montair,tablet,AstraZeneca,1,Medium,69
+amlodipine,amlodipine,5mg,Amdepin,tablet,Roche,1,High,40
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Sun Pharma,1,Medium,16
+amlodipine,amlodipine,5mg,Amdepin,tablet,AstraZeneca,0,Out of Stock,44
+aspirin,aspirin,300mg,Aspirin,tablet,Roche,0,Out of Stock,13
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Cipla,1,Low,68
+naproxen,naproxen,250mg,Naprosyn,tablet,Roche,0,Out of Stock,40
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Dr. Reddy's,1,High,44
+diclofenac,diclofenac,50mg,Voveran,tablet,Novartis,1,Medium,49
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Novartis,0,Out of Stock,61
+diazepam,diazepam,5mg,Valium,tablet,GSK,1,Medium,92
+omeprazole,omeprazole,20mg,Prilosec,capsule,Lupin,1,Low,32
+amlodipine,amlodipine,5mg,Amdepin,tablet,Abbott,0,Out of Stock,42
+metformin,metformin,500mg,Glucophage,tablet,Torrent,0,Out of Stock,55
+furosemide,furosemide,40mg,Lasix,tablet,Novartis,1,High,22
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Novartis,1,Medium,101
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Cipla,0,Out of Stock,115
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Reckitt,1,Medium,52
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Abbott,0,Out of Stock,92
+diclofenac,diclofenac,50mg,Voveran,tablet,Bayer,1,High,35
+ranitidine,ranitidine,150mg,Zinetac,tablet,Alembic,0,Out of Stock,24
+montelukast,montelukast,10mg,Montair,tablet,Sun Pharma,0,Out of Stock,70
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Torrent,1,Medium,19
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Dr. Reddy's,1,Medium,93
+azithromycin,azithromycin,250mg,Azithral,tablet,Micro Labs,0,Out of Stock,119
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Sanofi,0,Out of Stock,66
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Johnson & Johnson,1,Medium,89
+cephalexin,cephalexin,500mg,Keflex,capsule,Novartis,1,Low,90
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Johnson & Johnson,1,Medium,21
+metformin,metformin,500mg,Glucophage,tablet,Lupin,0,Out of Stock,59
+paracetamol,paracetamol,650mg,Dolo,tablet,Pfizer,0,Out of Stock,29
+ranitidine,ranitidine,150mg,Zinetac,tablet,Cadila,0,Out of Stock,13
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Cadila,0,Out of Stock,95
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Dr. Reddy's,1,Medium,31
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Reckitt,1,Medium,117
+losartan,losartan,50mg,Losar,tablet,Reckitt,1,High,61
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Reckitt,0,Out of Stock,16
+furosemide,furosemide,40mg,Lasix,tablet,Novartis,0,Out of Stock,21
+azithromycin,azithromycin,250mg,Azithral,tablet,Abbott,1,Low,119
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Torrent,1,High,87
+cephalexin,cephalexin,500mg,Keflex,capsule,Dr. Reddy's,1,Medium,94
+paracetamol,paracetamol,500mg,Crocin,tablet,Torrent,0,Out of Stock,18
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Pfizer,0,Out of Stock,105
+ranitidine,ranitidine,150mg,Zinetac,tablet,Alembic,1,Low,27
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Sun Pharma,0,Out of Stock,88
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Sanofi,0,Out of Stock,13
+metoprolol,metoprolol,50mg,Lopressor,tablet,Novartis,0,Out of Stock,81
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Eli Lilly,0,Out of Stock,48
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Merck,0,Out of Stock,69
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Bayer,0,Out of Stock,121
+sertraline,sertraline,50mg,Zoloft,tablet,AstraZeneca,1,Medium,133
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Lupin,1,High,94
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Merck,1,High,27
+amlodipine,amlodipine,5mg,Amdepin,tablet,Cipla,1,Low,38
+ranitidine,ranitidine,150mg,Zinetac,tablet,Reckitt,1,High,23
+furosemide,furosemide,40mg,Lasix,tablet,Torrent,0,Out of Stock,27
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Johnson & Johnson,0,Out of Stock,67
+ranitidine,ranitidine,150mg,Zinetac,tablet,Lupin,0,Out of Stock,22
+paracetamol,paracetamol,500mg,Crocin,tablet,Roche,0,Out of Stock,17
+paracetamol,paracetamol,650mg,Dolo,tablet,AstraZeneca,0,Out of Stock,26
+naproxen,naproxen,250mg,Naprosyn,tablet,Cadila,0,Out of Stock,35
+furosemide,furosemide,40mg,Lasix,tablet,Cipla,0,Out of Stock,23
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Alembic,0,Out of Stock,22
+furosemide,furosemide,40mg,Lasix,tablet,Dr. Reddy's,1,Medium,33
+naproxen,naproxen,250mg,Naprosyn,tablet,Cadila,1,Low,37
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Sanofi,0,Out of Stock,36
+montelukast,montelukast,10mg,Montair,tablet,Micro Labs,1,High,60
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Novartis,1,Low,7
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Alembic,0,Out of Stock,13
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Abbott,0,Out of Stock,89
+omeprazole,omeprazole,20mg,Prilosec,capsule,Bayer,1,Medium,34
+furosemide,furosemide,40mg,Lasix,tablet,AstraZeneca,0,Out of Stock,26
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Sun Pharma,1,Medium,126
+paracetamol,paracetamol,500mg,Crocin,tablet,Merck,1,High,24
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,AstraZeneca,0,Out of Stock,64
+omeprazole,omeprazole,20mg,Prilosec,capsule,Torrent,0,Out of Stock,27
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Sanofi,0,Out of Stock,20
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Eli Lilly,0,Out of Stock,40
+paracetamol,paracetamol,500mg,Crocin,tablet,Dr. Reddy's,0,Out of Stock,12
+metformin,metformin,500mg,Glucophage,tablet,Bayer,0,Out of Stock,62
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Cadila,0,Out of Stock,26
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Micro Labs,0,Out of Stock,102
+azithromycin,azithromycin,250mg,Azithral,tablet,Reckitt,1,High,119
+omeprazole,omeprazole,20mg,Prilosec,capsule,Eli Lilly,1,High,38
+diazepam,diazepam,5mg,Valium,tablet,Cipla,0,Out of Stock,99
+montelukast,montelukast,10mg,Montair,tablet,Johnson & Johnson,1,Low,64
+furosemide,furosemide,40mg,Lasix,tablet,Abbott,1,Low,32
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Sanofi,1,Low,88
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Abbott,0,Out of Stock,41
+metoprolol,metoprolol,50mg,Lopressor,tablet,Alembic,0,Out of Stock,73
+furosemide,furosemide,40mg,Lasix,tablet,Torrent,0,Out of Stock,33
+naproxen,naproxen,250mg,Naprosyn,tablet,Sanofi,1,High,38
+cephalexin,cephalexin,500mg,Keflex,capsule,Merck,0,Out of Stock,95
+azithromycin,azithromycin,250mg,Azithral,tablet,Roche,1,Medium,122
+diclofenac,diclofenac,50mg,Voveran,tablet,Eli Lilly,0,Out of Stock,39
+loratadine,loratadine,10mg,Claritin,tablet,Novartis,1,Low,16
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Micro Labs,1,Low,41
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Pfizer,1,High,8
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Cadila,1,Low,101
+loratadine,loratadine,10mg,Claritin,tablet,Lupin,1,Low,10
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Alembic,0,Out of Stock,89
+montelukast,montelukast,10mg,Montair,tablet,Alembic,1,High,63
+sertraline,sertraline,50mg,Zoloft,tablet,Eli Lilly,0,Out of Stock,131
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Bayer,0,Out of Stock,42
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Merck,1,Medium,67
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Johnson & Johnson,1,High,16
+sertraline,sertraline,50mg,Zoloft,tablet,Cipla,0,Out of Stock,123
+aspirin,aspirin,300mg,Aspirin,tablet,Bayer,0,Out of Stock,11
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Sun Pharma,1,Low,92
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Reckitt,1,High,76
+montelukast,montelukast,10mg,Montair,tablet,Torrent,1,Low,66
+diazepam,diazepam,5mg,Valium,tablet,Pfizer,1,High,103
+azithromycin,azithromycin,250mg,Azithral,tablet,Reckitt,1,Low,124
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Lupin,1,Low,15
+diclofenac,diclofenac,50mg,Voveran,tablet,Cipla,1,Low,41
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Merck,1,High,47
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Sun Pharma,1,Medium,64
+diazepam,diazepam,5mg,Valium,tablet,Cipla,1,Low,105
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Torrent,1,Low,77
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Johnson & Johnson,0,Out of Stock,16
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Abbott,0,Out of Stock,118
+aspirin,aspirin,300mg,Aspirin,tablet,Lupin,0,Out of Stock,8
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Alembic,1,High,112
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Sun Pharma,0,Out of Stock,91
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Sun Pharma,1,Low,144
+ranitidine,ranitidine,150mg,Zinetac,tablet,Sanofi,1,Medium,13
+ranitidine,ranitidine,150mg,Zinetac,tablet,Eli Lilly,1,Low,13
+diazepam,diazepam,5mg,Valium,tablet,Roche,0,Out of Stock,99
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Cipla,0,Out of Stock,22
+sertraline,sertraline,50mg,Zoloft,tablet,Torrent,0,Out of Stock,121
+paracetamol,paracetamol,650mg,Dolo,tablet,Sun Pharma,1,Medium,18
+aspirin,aspirin,300mg,Aspirin,tablet,Johnson & Johnson,0,Out of Stock,7
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Bayer,0,Out of Stock,110
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Novartis,1,Medium,15
+diclofenac,diclofenac,50mg,Voveran,tablet,Torrent,0,Out of Stock,50
+losartan,losartan,50mg,Losar,tablet,Dr. Reddy's,1,High,59
+diazepam,diazepam,5mg,Valium,tablet,GSK,1,Low,90
+sertraline,sertraline,50mg,Zoloft,tablet,Alembic,1,High,133
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Torrent,1,High,10
+cephalexin,cephalexin,500mg,Keflex,capsule,Sun Pharma,0,Out of Stock,90
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Dr. Reddy's,0,Out of Stock,83
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Dr. Reddy's,1,High,106
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Reckitt,0,Out of Stock,137
+loratadine,loratadine,10mg,Claritin,tablet,Eli Lilly,1,High,20
+ranitidine,ranitidine,150mg,Zinetac,tablet,Roche,1,High,15
+naproxen,naproxen,250mg,Naprosyn,tablet,Sun Pharma,1,Low,32
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Alembic,0,Out of Stock,119
+losartan,losartan,50mg,Losar,tablet,Eli Lilly,1,High,67
+paracetamol,paracetamol,650mg,Dolo,tablet,Reckitt,1,Medium,22
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Abbott,0,Out of Stock,36
+furosemide,furosemide,40mg,Lasix,tablet,Dr. Reddy's,1,Medium,34
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,GSK,1,High,130
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,AstraZeneca,0,Out of Stock,120
+furosemide,furosemide,40mg,Lasix,tablet,AstraZeneca,1,High,33
+cephalexin,cephalexin,500mg,Keflex,capsule,Reckitt,1,Low,98
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Cipla,1,High,41
+omeprazole,omeprazole,20mg,Prilosec,capsule,Eli Lilly,0,Out of Stock,36
+metformin,metformin,500mg,Glucophage,tablet,Torrent,1,Low,61
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Cadila,1,High,128
+metoprolol,metoprolol,50mg,Lopressor,tablet,Johnson & Johnson,0,Out of Stock,82
+aspirin,aspirin,300mg,Aspirin,tablet,Dr. Reddy's,1,High,6
+ranitidine,ranitidine,150mg,Zinetac,tablet,Eli Lilly,1,Medium,25
+diclofenac,diclofenac,50mg,Voveran,tablet,Roche,0,Out of Stock,40
+paracetamol,paracetamol,500mg,Crocin,tablet,Pfizer,1,High,20
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Lupin,0,Out of Stock,150
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Alembic,0,Out of Stock,117
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Sanofi,1,High,93
+furosemide,furosemide,40mg,Lasix,tablet,Novartis,0,Out of Stock,27
+paracetamol,paracetamol,650mg,Dolo,tablet,Eli Lilly,0,Out of Stock,31
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Eli Lilly,0,Out of Stock,111
+metoprolol,metoprolol,50mg,Lopressor,tablet,AstraZeneca,0,Out of Stock,78
+amlodipine,amlodipine,5mg,Amdepin,tablet,Roche,0,Out of Stock,31
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Eli Lilly,1,Low,74
+paracetamol,paracetamol,650mg,Dolo,tablet,Torrent,0,Out of Stock,17
+metformin,metformin,500mg,Glucophage,tablet,Micro Labs,1,High,62
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,AstraZeneca,0,Out of Stock,52
+sertraline,sertraline,50mg,Zoloft,tablet,Johnson & Johnson,0,Out of Stock,133
+montelukast,montelukast,10mg,Montair,tablet,Eli Lilly,1,High,70
+aspirin,aspirin,300mg,Aspirin,tablet,Eli Lilly,1,Medium,7
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Sun Pharma,1,High,121
+loratadine,loratadine,10mg,Claritin,tablet,Bayer,0,Out of Stock,20
+ranitidine,ranitidine,150mg,Zinetac,tablet,Roche,1,Low,27
+aspirin,aspirin,300mg,Aspirin,tablet,Merck,0,Out of Stock,18
+naproxen,naproxen,250mg,Naprosyn,tablet,Novartis,0,Out of Stock,33
+paracetamol,paracetamol,650mg,Dolo,tablet,Cipla,0,Out of Stock,30
+clopidogrel,clopidogrel,75mg,Plavix,tablet,GSK,1,Low,145
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Merck,1,Medium,105
+omeprazole,omeprazole,20mg,Prilosec,capsule,Bayer,0,Out of Stock,37
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Merck,1,High,113
+diazepam,diazepam,5mg,Valium,tablet,Torrent,0,Out of Stock,102
+montelukast,montelukast,10mg,Montair,tablet,Lupin,0,Out of Stock,61
+aspirin,aspirin,300mg,Aspirin,tablet,Sanofi,1,Medium,11
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Novartis,1,Medium,85
+ranitidine,ranitidine,150mg,Zinetac,tablet,Cadila,1,High,26
+amlodipine,amlodipine,5mg,Amdepin,tablet,Sanofi,0,Out of Stock,45
+metoprolol,metoprolol,50mg,Lopressor,tablet,Reckitt,1,High,75
+diclofenac,diclofenac,50mg,Voveran,tablet,Roche,0,Out of Stock,41
+sertraline,sertraline,50mg,Zoloft,tablet,Merck,0,Out of Stock,131
+losartan,losartan,50mg,Losar,tablet,Bayer,1,Medium,67
+metoprolol,metoprolol,50mg,Lopressor,tablet,Eli Lilly,1,Medium,74
+montelukast,montelukast,10mg,Montair,tablet,AstraZeneca,0,Out of Stock,70
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Bayer,0,Out of Stock,18
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Cipla,1,Medium,30
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,GSK,1,High,68
+furosemide,furosemide,40mg,Lasix,tablet,AstraZeneca,0,Out of Stock,30
+diazepam,diazepam,5mg,Valium,tablet,Reckitt,1,High,103
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Cipla,1,Medium,42
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Roche,1,Medium,31
+azithromycin,azithromycin,250mg,Azithral,tablet,Torrent,0,Out of Stock,121
+furosemide,furosemide,40mg,Lasix,tablet,Cadila,1,Medium,25
+cephalexin,cephalexin,500mg,Keflex,capsule,Reckitt,0,Out of Stock,99
+ranitidine,ranitidine,150mg,Zinetac,tablet,Cipla,1,Low,19
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Cadila,0,Out of Stock,80
+loratadine,loratadine,10mg,Claritin,tablet,GSK,1,High,18
+loratadine,loratadine,10mg,Claritin,tablet,Novartis,1,High,17
+furosemide,furosemide,40mg,Lasix,tablet,Eli Lilly,1,High,21
+paracetamol,paracetamol,650mg,Dolo,tablet,Lupin,1,Medium,22
+metoprolol,metoprolol,50mg,Lopressor,tablet,Roche,1,High,79
+diazepam,diazepam,5mg,Valium,tablet,Cadila,0,Out of Stock,91
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Roche,0,Out of Stock,58
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Roche,0,Out of Stock,126
+paracetamol,paracetamol,500mg,Crocin,tablet,Torrent,0,Out of Stock,16
+diclofenac,diclofenac,50mg,Voveran,tablet,Merck,1,High,38
+paracetamol,paracetamol,650mg,Dolo,tablet,Sun Pharma,1,Medium,24
+diclofenac,diclofenac,50mg,Voveran,tablet,Bayer,1,Low,42
+amlodipine,amlodipine,5mg,Amdepin,tablet,Dr. Reddy's,1,Medium,30
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Sanofi,0,Out of Stock,112
+aspirin,aspirin,300mg,Aspirin,tablet,Pfizer,0,Out of Stock,20
+diazepam,diazepam,5mg,Valium,tablet,Abbott,0,Out of Stock,91
+metformin,metformin,500mg,Glucophage,tablet,Johnson & Johnson,0,Out of Stock,61
+aspirin,aspirin,300mg,Aspirin,tablet,Dr. Reddy's,1,Medium,5
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Alembic,0,Out of Stock,121
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Novartis,1,Low,18
+montelukast,montelukast,10mg,Montair,tablet,Novartis,0,Out of Stock,62
+losartan,losartan,50mg,Losar,tablet,Dr. Reddy's,0,Out of Stock,63
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Eli Lilly,0,Out of Stock,146
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Lupin,0,Out of Stock,127
+cephalexin,cephalexin,500mg,Keflex,capsule,Novartis,0,Out of Stock,100
+furosemide,furosemide,40mg,Lasix,tablet,Lupin,1,High,27
+diazepam,diazepam,5mg,Valium,tablet,AstraZeneca,1,Medium,97
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Johnson & Johnson,1,High,88
+fluoxetine,fluoxetine,20mg,Prozac,capsule,AstraZeneca,1,High,119
+ranitidine,ranitidine,150mg,Zinetac,tablet,Eli Lilly,1,Low,28
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Johnson & Johnson,0,Out of Stock,30
+omeprazole,omeprazole,20mg,Prilosec,capsule,Dr. Reddy's,1,Low,37
+metoprolol,metoprolol,50mg,Lopressor,tablet,Johnson & Johnson,0,Out of Stock,78
+metformin,metformin,500mg,Glucophage,tablet,Novartis,1,High,54
+paracetamol,paracetamol,500mg,Crocin,tablet,Sun Pharma,0,Out of Stock,16
+furosemide,furosemide,40mg,Lasix,tablet,AstraZeneca,1,Medium,26
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,AstraZeneca,0,Out of Stock,85
+diclofenac,diclofenac,50mg,Voveran,tablet,Torrent,0,Out of Stock,36
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Reckitt,1,High,10
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Sun Pharma,0,Out of Stock,141
+sertraline,sertraline,50mg,Zoloft,tablet,Alembic,1,Medium,122
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Novartis,0,Out of Stock,104
+loratadine,loratadine,10mg,Claritin,tablet,Pfizer,0,Out of Stock,12
+loratadine,loratadine,10mg,Claritin,tablet,Cadila,0,Out of Stock,16
+naproxen,naproxen,250mg,Naprosyn,tablet,Sanofi,1,Low,39
+furosemide,furosemide,40mg,Lasix,tablet,Merck,0,Out of Stock,26
+montelukast,montelukast,10mg,Montair,tablet,Novartis,1,Medium,61
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Cipla,1,Medium,84
+azithromycin,azithromycin,250mg,Azithral,tablet,Cadila,1,High,119
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Alembic,1,Low,21
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Micro Labs,0,Out of Stock,12
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Sun Pharma,1,High,147
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Abbott,1,High,42
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Johnson & Johnson,1,Medium,100
+diclofenac,diclofenac,50mg,Voveran,tablet,Alembic,0,Out of Stock,44
+naproxen,naproxen,250mg,Naprosyn,tablet,Eli Lilly,1,High,32
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Sun Pharma,0,Out of Stock,12
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Eli Lilly,0,Out of Stock,124
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Lupin,1,High,76
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Reckitt,1,High,53
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Lupin,0,Out of Stock,116
+furosemide,furosemide,40mg,Lasix,tablet,Cipla,1,High,25
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Lupin,1,Low,121
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Micro Labs,1,Low,143
+montelukast,montelukast,10mg,Montair,tablet,AstraZeneca,1,High,69
+azithromycin,azithromycin,250mg,Azithral,tablet,Pfizer,1,Low,117
+ranitidine,ranitidine,150mg,Zinetac,tablet,Roche,1,Medium,24
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Sanofi,0,Out of Stock,135
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Bayer,0,Out of Stock,141
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Eli Lilly,1,High,136
+furosemide,furosemide,40mg,Lasix,tablet,Eli Lilly,1,Medium,28
+amlodipine,amlodipine,5mg,Amdepin,tablet,Pfizer,0,Out of Stock,30
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Dr. Reddy's,0,Out of Stock,137
+aspirin,aspirin,300mg,Aspirin,tablet,Torrent,0,Out of Stock,14
+cetirizine,cetirizine,10mg,Zyrtec,tablet,Merck,0,Out of Stock,18
+amlodipine,amlodipine,5mg,Amdepin,tablet,AstraZeneca,1,Medium,42
+diclofenac,diclofenac,50mg,Voveran,tablet,Cipla,0,Out of Stock,44
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Micro Labs,1,Medium,144
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Sun Pharma,0,Out of Stock,149
+amlodipine,amlodipine,5mg,Amdepin,tablet,Micro Labs,0,Out of Stock,42
+cephalexin,cephalexin,500mg,Keflex,capsule,Pfizer,1,Low,91
+metoprolol,metoprolol,50mg,Lopressor,tablet,Dr. Reddy's,1,Medium,83
+cephalexin,cephalexin,500mg,Keflex,capsule,Micro Labs,1,High,103
+azithromycin,azithromycin,250mg,Azithral,tablet,GSK,0,Out of Stock,128
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Merck,0,Out of Stock,62
+cephalexin,cephalexin,500mg,Keflex,capsule,Novartis,0,Out of Stock,103
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Alembic,0,Out of Stock,56
+diazepam,diazepam,5mg,Valium,tablet,Roche,1,Low,97
+losartan,losartan,50mg,Losar,tablet,Cadila,0,Out of Stock,70
+metformin,metformin,500mg,Glucophage,tablet,Cipla,0,Out of Stock,61
+aspirin,aspirin,300mg,Aspirin,tablet,Cadila,0,Out of Stock,13
+furosemide,furosemide,40mg,Lasix,tablet,Reckitt,1,High,29
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Merck,1,Medium,141
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,GSK,0,Out of Stock,30
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,AstraZeneca,0,Out of Stock,88
+ranitidine,ranitidine,150mg,Zinetac,tablet,Cadila,1,Medium,13
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Lupin,0,Out of Stock,41
+ibuprofen,ibuprofen,400mg,Brufen,tablet,AstraZeneca,0,Out of Stock,27
+azithromycin,azithromycin,250mg,Azithral,tablet,GSK,1,High,129
+ibuprofen,ibuprofen,400mg,Brufen,tablet,Sun Pharma,0,Out of Stock,19
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Alembic,1,High,86
+dextromethorphan,dextromethorphan,15mg,Delsym,syrup,Lupin,0,Out of Stock,93
+losartan,losartan,50mg,Losar,tablet,Bayer,0,Out of Stock,56
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Micro Labs,1,Medium,28
+paracetamol,paracetamol,650mg,Dolo,tablet,Johnson & Johnson,1,High,23
+montelukast,montelukast,10mg,Montair,tablet,Cipla,1,Medium,70
+metoprolol,metoprolol,50mg,Lopressor,tablet,Torrent,1,High,82
+omeprazole,omeprazole,20mg,Prilosec,capsule,Sanofi,1,Medium,27
+diazepam,diazepam,5mg,Valium,tablet,AstraZeneca,1,Medium,102
+naproxen,naproxen,250mg,Naprosyn,tablet,Roche,1,Low,35
+metoprolol,metoprolol,50mg,Lopressor,tablet,Lupin,0,Out of Stock,73
+montelukast,montelukast,10mg,Montair,tablet,Roche,0,Out of Stock,65
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Roche,0,Out of Stock,55
+losartan,losartan,50mg,Losar,tablet,GSK,1,High,69
+losartan,losartan,50mg,Losar,tablet,Alembic,1,High,69
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Novartis,0,Out of Stock,29
+cephalexin,cephalexin,500mg,Keflex,capsule,Reckitt,0,Out of Stock,93
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Cadila,1,Low,73
+losartan,losartan,50mg,Losar,tablet,Cadila,0,Out of Stock,61
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,GSK,0,Out of Stock,106
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Lupin,1,High,141
+loratadine,loratadine,10mg,Claritin,tablet,Roche,0,Out of Stock,11
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Pfizer,0,Out of Stock,93
+furosemide,furosemide,40mg,Lasix,tablet,AstraZeneca,0,Out of Stock,28
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Merck,0,Out of Stock,128
+naproxen,naproxen,250mg,Naprosyn,tablet,Dr. Reddy's,0,Out of Stock,35
+diazepam,diazepam,5mg,Valium,tablet,Pfizer,1,High,99
+metformin,metformin,500mg,Glucophage,tablet,Reckitt,0,Out of Stock,63
+diazepam,diazepam,5mg,Valium,tablet,Lupin,1,Medium,96
+naproxen,naproxen,250mg,Naprosyn,tablet,Micro Labs,0,Out of Stock,43
+levothyroxine,levothyroxine,50mcg,Thyronorm,tablet,Torrent,1,Medium,106
+paracetamol,paracetamol,500mg,Crocin,tablet,Reckitt,1,High,24
+diazepam,diazepam,5mg,Valium,tablet,Abbott,0,Out of Stock,96
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Pfizer,0,Out of Stock,57
+paracetamol,paracetamol,650mg,Dolo,tablet,GSK,1,Low,27
+cephalexin,cephalexin,500mg,Keflex,capsule,Eli Lilly,0,Out of Stock,96
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Abbott,0,Out of Stock,65
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Abbott,0,Out of Stock,47
+aspirin,aspirin,300mg,Aspirin,tablet,Cipla,1,Medium,12
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Pfizer,1,Low,49
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Cipla,0,Out of Stock,51
+naproxen,naproxen,250mg,Naprosyn,tablet,Eli Lilly,1,High,43
+metoprolol,metoprolol,50mg,Lopressor,tablet,Eli Lilly,0,Out of Stock,85
+losartan,losartan,50mg,Losar,tablet,Cipla,1,Medium,58
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Dr. Reddy's,0,Out of Stock,63
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Torrent,1,Medium,85
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Sanofi,0,Out of Stock,142
+metoprolol,metoprolol,50mg,Lopressor,tablet,Sanofi,1,High,77
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Roche,0,Out of Stock,118
+furosemide,furosemide,40mg,Lasix,tablet,Lupin,0,Out of Stock,21
+azithromycin,azithromycin,250mg,Azithral,tablet,GSK,1,Medium,115
+diclofenac,diclofenac,50mg,Voveran,tablet,Micro Labs,1,High,45
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,AstraZeneca,1,Low,79
+diazepam,diazepam,5mg,Valium,tablet,Johnson & Johnson,1,Low,93
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Bayer,0,Out of Stock,31
+losartan,losartan,50mg,Losar,tablet,Abbott,1,High,56
+alprazolam,alprazolam,0.5mg,Xanax,tablet,Sun Pharma,1,Medium,95
+paracetamol,paracetamol,500mg,Crocin,tablet,Sun Pharma,1,Medium,20
+azithromycin,azithromycin,250mg,Azithral,tablet,Sun Pharma,0,Out of Stock,123
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Cadila,0,Out of Stock,40
+sertraline,sertraline,50mg,Zoloft,tablet,Cadila,1,High,133
+metformin,metformin,500mg,Glucophage,tablet,Roche,0,Out of Stock,56
+fluoxetine,fluoxetine,20mg,Prozac,capsule,Cipla,0,Out of Stock,113
+paracetamol,paracetamol,500mg,Crocin,tablet,Eli Lilly,1,Low,25
+cephalexin,cephalexin,500mg,Keflex,capsule,Lupin,0,Out of Stock,99
+paracetamol,paracetamol,500mg,Crocin,tablet,Novartis,0,Out of Stock,13
+naproxen,naproxen,250mg,Naprosyn,tablet,Merck,1,Medium,42
+omeprazole,omeprazole,20mg,Prilosec,capsule,Bayer,1,High,23
+diazepam,diazepam,5mg,Valium,tablet,Lupin,0,Out of Stock,93
+amlodipine,amlodipine,5mg,Amdepin,tablet,Cadila,0,Out of Stock,36
+salbutamol,salbutamol,100mcg,Asthalin,inhaler,Cipla,1,Medium,119
+furosemide,furosemide,40mg,Lasix,tablet,Pfizer,1,High,24
+sertraline,sertraline,50mg,Zoloft,tablet,Eli Lilly,0,Out of Stock,125
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Novartis,1,Low,63
+clopidogrel,clopidogrel,75mg,Plavix,tablet,Cipla,1,High,139
+pantoprazole,pantoprazole,40mg,Pantocid,tablet,Pfizer,1,Medium,60
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Sun Pharma,0,Out of Stock,29
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Reckitt,0,Out of Stock,74
+atorvastatin,atorvastatin,10mg,Lipitor,tablet,Cipla,1,Medium,67
+omeprazole,omeprazole,20mg,Prilosec,capsule,Cipla,0,Out of Stock,28
+amoxicillin,amoxicillin,500mg,Amoxil,capsule,Bayer,1,Medium,41
+hydrochlorothiazide,hydrochlorothiazide,25mg,Hydrin,tablet,Alembic,0,Out of Stock,37
+amlodipine,amlodipine,5mg,Amdepin,tablet,Merck,0,Out of Stock,36
+naproxen,naproxen,250mg,Naprosyn,tablet,Cadila,1,Low,42
+naproxen,naproxen,250mg,Naprosyn,tablet,AstraZeneca,1,High,43
+paracetamol,paracetamol,500mg,Crocin,tablet,Merck,0,Out of Stock,22
+diazepam,diazepam,5mg,Valium,tablet,Dr. Reddy's,0,Out of Stock,96
