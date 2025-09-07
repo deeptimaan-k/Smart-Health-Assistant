@@ -68,7 +68,7 @@ smart-health-assistant/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-health-assistant.git
+   git clone https://github.com/deeptimaan-k/smart-health-assistant.git
    cd smart-health-assistant
    ```
 
@@ -234,7 +234,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help with setup:
-1. Check the [Issues](https://github.com/yourusername/smart-health-assistant/issues) page
+1. Check the [Issues](https://github.com/deeptimaan-k/smart-health-assistant/issues) page
 2. Create a new issue with your question
 3. Email: support@healthassist.example.com
 
