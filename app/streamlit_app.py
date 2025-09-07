@@ -2,7 +2,7 @@ import sys
 import os
 from pathlib import Path
 
-# Add the parent directory to Python path
+
 current_dir = Path(__file__).parent
 parent_dir = current_dir.parent
 sys.path.append(str(parent_dir))
@@ -13,7 +13,7 @@ import json
 import time
 from datetime import datetime
 
-# Page configuration
+
 st.set_page_config(
     page_title="Smart Health Assist",
     page_icon="🏥",
